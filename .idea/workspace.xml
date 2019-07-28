@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ad4ff57-92e4-471a-bf04-126a5049ca94" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dataAnalysis/matplotlib/3-grid.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dataAnalysis/matplotlib/2-plot_set.py" afterPath="$PROJECT_DIR$/dataAnalysis/matplotlib/2-plot_set.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dataAnalysis/matplotlib/4-plotTwodataInOneFigure.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="learning-record.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -17,6 +17,7 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/learning-record$4_.coverage" NAME="4- Coverage Results" MODIFIED="1564314194691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dataAnalysis/matplotlib" />
     <SUITE FILE_PATH="coverage/learning-record$2_plot_set.coverage" NAME="2-plot_set Coverage Results" MODIFIED="1564313106903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dataAnalysis/matplotlib" />
     <SUITE FILE_PATH="coverage/learning-record$3_.coverage" NAME="3- Coverage Results" MODIFIED="1564313028969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dataAnalysis/matplotlib" />
   </component>
@@ -33,7 +34,7 @@
         <entry file="file://$PROJECT_DIR$/dataAnalysis/matplotlib/2-plot_set.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+              <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="32" selection-end-column="52" />
               <folding>
                 <element signature="e#15#51#0" expanded="true" />
               </folding>
@@ -48,14 +49,46 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="3-grid.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="3-grid.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dataAnalysis/matplotlib/3-grid.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4311377">
-              <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
               <folding>
                 <element signature="e#15#51#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="4-plotTwodataInOneFigure.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dataAnalysis/matplotlib/4-plotTwodataInOneFigure.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.1616766">
+              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding>
+                <element signature="e#15#51#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pyplot.py" pinned="false" current-in-tab="false">
+        <entry file="file://G:/python/Lib/site-packages/matplotlib/pyplot.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="2706" column="20" selection-start-line="2706" selection-start-column="20" selection-end-line="2706" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="figure.py" pinned="false" current-in-tab="false">
+        <entry file="file://G:/python/Lib/site-packages/matplotlib/figure.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="1680" column="8" selection-start-line="1680" selection-start-column="8" selection-end-line="1680" selection-end-column="8" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -64,7 +97,7 @@
         <entry file="file://$PROJECT_DIR$/dataAnalysis/matplotlib/1-figureShowSetScaleSize.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
+              <caret line="28" column="14" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -98,6 +131,7 @@
         <option value="G:/python/Lib/site-packages/matplotlib/__init__.py" />
         <option value="$PROJECT_DIR$/dataAnalysis/matplotlib/2-plot_set.py" />
         <option value="$PROJECT_DIR$/dataAnalysis/matplotlib/3-.py" />
+        <option value="$PROJECT_DIR$/dataAnalysis/matplotlib/4-.py" />
       </list>
     </option>
   </component>
@@ -107,8 +141,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="645" />
-    <option name="y" value="22" />
+    <option name="x" value="621" />
+    <option name="y" value="28" />
     <option name="width" value="772" />
     <option name="height" value="670" />
   </component>
@@ -185,7 +219,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
-  <component name="RunManager" selected="Python.2-plot_set">
+  <component name="RunManager" selected="Python.4-">
     <configuration default="false" name="2-plot_set" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -218,6 +252,24 @@
       <module name="learning-record" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="C:\Users\18453\Desktop\learning-record\dataAnalysis\matplotlib\3-grid.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="4-" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dataAnalysis/matplotlib" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="learning-record" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\18453\Desktop\learning-record\dataAnalysis\matplotlib\4-plotTwodataInOneFigure.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -415,14 +467,16 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Python.2-plot_set" />
       <item index="1" class="java.lang.String" itemvalue="Python.3-" />
+      <item index="2" class="java.lang.String" itemvalue="Python.4-" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Python.2-plot_set" />
-        <item index="1" class="java.lang.String" itemvalue="Python.3-" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Python.4-" />
+        <item index="1" class="java.lang.String" itemvalue="Python.2-plot_set" />
+        <item index="2" class="java.lang.String" itemvalue="Python.3-" />
       </list>
     </recent_temporary>
   </component>
@@ -440,7 +494,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="645" y="22" width="772" height="670" extended-state="0" />
+    <frame x="621" y="28" width="772" height="670" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26966292" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -535,7 +589,7 @@
     <entry file="file://$PROJECT_DIR$/dataAnalysis/matplotlib/1-figureShowSetScaleSize.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
+          <caret line="28" column="14" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
           <folding />
         </state>
       </provider>
@@ -543,17 +597,43 @@
     <entry file="file://$PROJECT_DIR$/dataAnalysis/matplotlib/2-plot_set.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="32" selection-end-column="52" />
           <folding>
             <element signature="e#15#51#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://G:/python/Lib/site-packages/matplotlib/pyplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2706" column="20" selection-start-line="2706" selection-start-column="20" selection-end-line="2706" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/python/Lib/site-packages/matplotlib/figure.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1680" column="8" selection-start-line="1680" selection-start-column="8" selection-end-line="1680" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/dataAnalysis/matplotlib/3-grid.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4311377">
-          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+          <folding>
+            <element signature="e#15#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataAnalysis/matplotlib/4-plotTwodataInOneFigure.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.1616766">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding>
             <element signature="e#15#51#0" expanded="true" />
           </folding>
