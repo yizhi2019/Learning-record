@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ad4ff57-92e4-471a-bf04-126a5049ca94" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dataAnalysis/matplotlib/8-plotHistogram.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dataAnalysis/matplotlib/9-.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="learning-record.iws" />
@@ -22,6 +22,7 @@
     <SUITE FILE_PATH="coverage/learning-record$7_.coverage" NAME="7- Coverage Results" MODIFIED="1564327138815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dataAnalysis/matplotlib" />
     <SUITE FILE_PATH="coverage/learning-record$8_plotHistogram.coverage" NAME="8-plotHistogram Coverage Results" MODIFIED="1564415570762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dataAnalysis/matplotlib" />
     <SUITE FILE_PATH="coverage/learning-record$5_.coverage" NAME="5- Coverage Results" MODIFIED="1564317667004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dataAnalysis/matplotlib" />
+    <SUITE FILE_PATH="coverage/learning-record$9_.coverage" NAME="9- Coverage Results" MODIFIED="1564416724364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dataAnalysis/matplotlib" />
     <SUITE FILE_PATH="coverage/learning-record$6_.coverage" NAME="6- Coverage Results" MODIFIED="1564326057729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dataAnalysis/matplotlib" />
     <SUITE FILE_PATH="coverage/learning-record$3_.coverage" NAME="3- Coverage Results" MODIFIED="1564313028969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dataAnalysis/matplotlib" />
   </component>
@@ -104,13 +105,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="8-plotHistogram.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="8-plotHistogram.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dataAnalysis/matplotlib/8-plotHistogram.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.18952619">
+            <state vertical-scroll-proportion="0.0">
               <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
               <folding>
                 <element signature="e#14#50#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="9-Histogram_Frequency_Bar.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dataAnalysis/matplotlib/9-Histogram_Frequency_Bar.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.65984654">
+              <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+              <folding>
+                <element signature="e#15#51#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -131,16 +144,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="1680" column="8" selection-start-line="1680" selection-start-column="8" selection-end-line="1680" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="1-figureShowSetScaleSize.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dataAnalysis/matplotlib/1-figureShowSetScaleSize.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="28" column="14" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -169,6 +172,7 @@
         <option value="$PROJECT_DIR$/dataAnalysis/matplotlib/6-.py" />
         <option value="$PROJECT_DIR$/dataAnalysis/matplotlib/7-.py" />
         <option value="$PROJECT_DIR$/dataAnalysis/matplotlib/8-plotHistogram.py" />
+        <option value="$PROJECT_DIR$/dataAnalysis/matplotlib/9-.py" />
       </list>
     </option>
   </component>
@@ -178,10 +182,10 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="798" />
-    <option name="y" value="92" />
+    <option name="x" value="695" />
+    <option name="y" value="54" />
     <option name="width" value="772" />
-    <option name="height" value="657" />
+    <option name="height" value="647" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -256,25 +260,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
-  <component name="RunManager" selected="Python.8-plotHistogram">
-    <configuration default="false" name="4-" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dataAnalysis/matplotlib" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="learning-record" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\18453\Desktop\learning-record\dataAnalysis\matplotlib\4-plotTwodataInOneFigure.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.9-">
     <configuration default="false" name="5-" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -343,6 +329,24 @@
       <module name="learning-record" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dataAnalysis/matplotlib/8-plotHistogram.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="9-" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dataAnalysis/matplotlib" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="learning-record" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\18453\Desktop\learning-record\dataAnalysis\matplotlib\9-Histogram_Frequency_Bar.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -541,19 +545,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.4-" />
-      <item index="1" class="java.lang.String" itemvalue="Python.5-" />
-      <item index="2" class="java.lang.String" itemvalue="Python.6-" />
-      <item index="3" class="java.lang.String" itemvalue="Python.7-" />
-      <item index="4" class="java.lang.String" itemvalue="Python.8-plotHistogram" />
+      <item index="0" class="java.lang.String" itemvalue="Python.5-" />
+      <item index="1" class="java.lang.String" itemvalue="Python.6-" />
+      <item index="2" class="java.lang.String" itemvalue="Python.7-" />
+      <item index="3" class="java.lang.String" itemvalue="Python.8-plotHistogram" />
+      <item index="4" class="java.lang.String" itemvalue="Python.9-" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.8-plotHistogram" />
-        <item index="1" class="java.lang.String" itemvalue="Python.7-" />
-        <item index="2" class="java.lang.String" itemvalue="Python.6-" />
-        <item index="3" class="java.lang.String" itemvalue="Python.5-" />
-        <item index="4" class="java.lang.String" itemvalue="Python.4-" />
+        <item index="0" class="java.lang.String" itemvalue="Python.9-" />
+        <item index="1" class="java.lang.String" itemvalue="Python.8-plotHistogram" />
+        <item index="2" class="java.lang.String" itemvalue="Python.7-" />
+        <item index="3" class="java.lang.String" itemvalue="Python.6-" />
+        <item index="4" class="java.lang.String" itemvalue="Python.5-" />
       </list>
     </recent_temporary>
   </component>
@@ -571,16 +575,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="798" y="92" width="772" height="657" extended-state="0" />
-    <editor active="true" />
+    <frame x="695" y="54" width="772" height="647" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.098314606" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33286518" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18095239" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18446602" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -908,10 +912,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dataAnalysis/matplotlib/8-plotHistogram.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18952619">
+        <state vertical-scroll-proportion="0.0">
           <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
           <folding>
             <element signature="e#14#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataAnalysis/matplotlib/9-Histogram_Frequency_Bar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.65984654">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          <folding>
+            <element signature="e#15#51#0" expanded="true" />
           </folding>
         </state>
       </provider>
