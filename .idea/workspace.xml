@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ad4ff57-92e4-471a-bf04-126a5049ca94" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dataAnalysis/matplotlib/9-.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dataAnalysis/numpy/1-Numpy_First.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="learning-record.iws" />
@@ -21,6 +21,7 @@
     <SUITE FILE_PATH="coverage/learning-record$2_plot_set.coverage" NAME="2-plot_set Coverage Results" MODIFIED="1564313106903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dataAnalysis/matplotlib" />
     <SUITE FILE_PATH="coverage/learning-record$7_.coverage" NAME="7- Coverage Results" MODIFIED="1564327138815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dataAnalysis/matplotlib" />
     <SUITE FILE_PATH="coverage/learning-record$8_plotHistogram.coverage" NAME="8-plotHistogram Coverage Results" MODIFIED="1564415570762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dataAnalysis/matplotlib" />
+    <SUITE FILE_PATH="coverage/learning-record$1_.coverage" NAME="1- Coverage Results" MODIFIED="1564497964862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dataAnalysis/numpy" />
     <SUITE FILE_PATH="coverage/learning-record$5_.coverage" NAME="5- Coverage Results" MODIFIED="1564317667004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dataAnalysis/matplotlib" />
     <SUITE FILE_PATH="coverage/learning-record$9_.coverage" NAME="9- Coverage Results" MODIFIED="1564416724364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dataAnalysis/matplotlib" />
     <SUITE FILE_PATH="coverage/learning-record$6_.coverage" NAME="6- Coverage Results" MODIFIED="1564326057729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dataAnalysis/matplotlib" />
@@ -35,18 +36,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2-plot_set.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dataAnalysis/matplotlib/2-plot_set.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="32" selection-end-column="52" />
-              <folding>
-                <element signature="e#15#51#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="3-grid.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dataAnalysis/matplotlib/3-grid.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -117,14 +106,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="9-Histogram_Frequency_Bar.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="9-Histogram_Frequency_Bar.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dataAnalysis/matplotlib/9-Histogram_Frequency_Bar.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.65984654">
-              <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding>
                 <element signature="e#15#51#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1-Numpy_First.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dataAnalysis/numpy/1-Numpy_First.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.07672634">
+              <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -173,6 +172,8 @@
         <option value="$PROJECT_DIR$/dataAnalysis/matplotlib/7-.py" />
         <option value="$PROJECT_DIR$/dataAnalysis/matplotlib/8-plotHistogram.py" />
         <option value="$PROJECT_DIR$/dataAnalysis/matplotlib/9-.py" />
+        <option value="$PROJECT_DIR$/dataAnalysis/matplotlib/numpy.py" />
+        <option value="$PROJECT_DIR$/dataAnalysis/numpy/1-.py" />
       </list>
     </option>
   </component>
@@ -182,8 +183,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="695" />
-    <option name="y" value="54" />
+    <option name="x" value="665" />
+    <option name="y" value="65" />
     <option name="width" value="772" />
     <option name="height" value="647" />
   </component>
@@ -246,7 +247,21 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="matplotlib" />
+              <option name="myItemId" value="numpy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning-record" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning-record" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dataAnalysis" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -260,25 +275,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
-  <component name="RunManager" selected="Python.9-">
-    <configuration default="false" name="5-" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dataAnalysis/matplotlib" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="learning-record" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\18453\Desktop\learning-record\dataAnalysis\matplotlib\5-ScatterPlot.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.1-">
     <configuration default="false" name="6-" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -347,6 +344,24 @@
       <module name="learning-record" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="C:\Users\18453\Desktop\learning-record\dataAnalysis\matplotlib\9-Histogram_Frequency_Bar.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="1-" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dataAnalysis/numpy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="learning-record" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\18453\Desktop\learning-record\dataAnalysis\numpy\1-Numpy_First.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -545,19 +560,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.5-" />
-      <item index="1" class="java.lang.String" itemvalue="Python.6-" />
-      <item index="2" class="java.lang.String" itemvalue="Python.7-" />
-      <item index="3" class="java.lang.String" itemvalue="Python.8-plotHistogram" />
-      <item index="4" class="java.lang.String" itemvalue="Python.9-" />
+      <item index="0" class="java.lang.String" itemvalue="Python.6-" />
+      <item index="1" class="java.lang.String" itemvalue="Python.7-" />
+      <item index="2" class="java.lang.String" itemvalue="Python.8-plotHistogram" />
+      <item index="3" class="java.lang.String" itemvalue="Python.9-" />
+      <item index="4" class="java.lang.String" itemvalue="Python.1-" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.9-" />
-        <item index="1" class="java.lang.String" itemvalue="Python.8-plotHistogram" />
-        <item index="2" class="java.lang.String" itemvalue="Python.7-" />
-        <item index="3" class="java.lang.String" itemvalue="Python.6-" />
-        <item index="4" class="java.lang.String" itemvalue="Python.5-" />
+        <item index="0" class="java.lang.String" itemvalue="Python.1-" />
+        <item index="1" class="java.lang.String" itemvalue="Python.9-" />
+        <item index="2" class="java.lang.String" itemvalue="Python.8-plotHistogram" />
+        <item index="3" class="java.lang.String" itemvalue="Python.7-" />
+        <item index="4" class="java.lang.String" itemvalue="Python.6-" />
       </list>
     </recent_temporary>
   </component>
@@ -575,10 +590,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="695" y="54" width="772" height="647" extended-state="0" />
-    <editor active="false" />
+    <frame x="665" y="65" width="772" height="647" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33286518" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20786516" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -613,7 +628,101 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="32" selection-end-column="52" />
           <folding>
+            <element signature="e#15#51#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataAnalysis/matplotlib/3-grid.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+          <folding>
             <element signature="e#15#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataAnalysis/matplotlib/4-plotTwodataInOneFigure.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="45" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="45" />
+          <folding>
+            <element signature="e#15#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataAnalysis/matplotlib/5-ScatterPlot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="72" />
+          <folding>
+            <element signature="e#14#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataAnalysis/matplotlib/6-plotBarChart.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="49" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataAnalysis/matplotlib/7-Muti-levelBarGraph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="16" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+          <folding>
+            <element signature="e#15#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataAnalysis/matplotlib/8-plotHistogram.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+          <folding>
+            <element signature="e#14#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataAnalysis/matplotlib/9-Histogram_Frequency_Bar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#15#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/python/Lib/site-packages/matplotlib/pyplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2706" column="20" selection-start-line="2706" selection-start-column="20" selection-end-line="2706" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/python/Lib/site-packages/matplotlib/figure.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1680" column="8" selection-start-line="1680" selection-start-column="8" selection-end-line="1680" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataAnalysis/matplotlib/2-plot_set.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="32" selection-end-column="52" />
+          <folding>
+            <element signature="e#15#51#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -700,7 +809,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="32" selection-end-column="52" />
           <folding>
-            <element signature="e#15#51#0" expanded="true" />
+            <element signature="e#15#51#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -776,7 +885,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#15#51#0" expanded="true" />
+            <element signature="e#15#51#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -841,7 +950,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="32" selection-end-column="52" />
           <folding>
-            <element signature="e#15#51#0" expanded="true" />
+            <element signature="e#15#51#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -922,11 +1031,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dataAnalysis/matplotlib/9-Histogram_Frequency_Bar.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.65984654">
-          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding>
             <element signature="e#15#51#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataAnalysis/numpy/1-Numpy_First.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.07672634">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+          <folding />
         </state>
       </provider>
     </entry>
